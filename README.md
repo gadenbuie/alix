@@ -1,14 +1,10 @@
-<center><h1>alix</h1></center>
+# alix
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-<center>
 Warn about accessibility issues in html documents and apps.  
 An R wrapper for [a11y.css](https://github.com/ffoodd/a11y.css/)
-</center>
-
-<hr />
 
 ## Installation
 
