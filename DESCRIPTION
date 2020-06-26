@@ -1,0 +1,26 @@
+Package: alix
+Title: Warn About Accessibility Issues in HTML Documents and
+    Apps
+Version: 0.0.1
+Authors@R: 
+    c(person(given = "Garrick",
+             family = "Aden-Buie",
+             role = c("aut", "cre"),
+             email = "garrick@adenbuie.com",
+             comment = c(ORCID = "0000-0002-7111-0077")),
+      person(given = "Gaël",
+             family = "Poupard",
+             role = "ctb",
+             email = "gael@ffoodd.fr",
+             comment = "Author of a11y.css"))
+Description: This package makes "a11y.css" available for 'R
+    Markdown' and 'Shiny' documents. The 'a11y.css' project provides
+    feedback and warnings to developers about potential issues with their
+    HTML and CSS that will impact accessibility.
+License: MIT + file LICENSE
+Imports: 
+    htmltools
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
