@@ -18,6 +18,8 @@ Description: This package makes "a11y.css" available for 'R
     feedback and warnings to developers about potential issues with their
     HTML and CSS that will impact accessibility.
 License: MIT + file LICENSE
+URL: https://github.com/gadenbuie/alix
+BugReports: https://github.com/gadenbuie/alix/issues
 Imports: 
     htmltools
 Encoding: UTF-8
